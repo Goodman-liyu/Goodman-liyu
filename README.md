@@ -37,7 +37,7 @@
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://decade.net.cn" target="_blank">
+      <a href="https://goodman-liyu.github.io/LiYu.io/" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Personal profile">
       </a>
     </p>
