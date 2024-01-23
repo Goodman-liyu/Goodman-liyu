@@ -19,10 +19,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <div>
-<!--     <span align="right">
+    <span align="right">
       <img align="right" style="margin: auto 8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goodman-liyu&layout=compact&langs_count=6&bg_color=E6E6FA" alt="https://raw.githubusercontent.com/Goodman-liyu/Goodman-liyu/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231224134245.png">
       <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Goodman-liyu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Goodman-liyu/Goodman-liyu/master/Quicker_20231224_134552.png">
-  </span>   -->
+  </span>  
+  
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Goodman-liyu" target="_blank">
@@ -32,11 +33,6 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://github.com/Goodman-liyu" target="_blank">
         <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Goodman-liyu">
-      </a>
-    </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://www.zhihu.com/people/chou-yu-80-33" target="_blank">
-        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
