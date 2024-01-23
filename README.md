@@ -27,7 +27,7 @@
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=lukasmayer83593@gmail.com">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=whu_yuli@whu.edu.cn">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -37,7 +37,7 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://decade.net.cn" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Decade">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Personal profile">
       </a>
     </p>
   </span>
