@@ -9,10 +9,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Learning web development, focusing on JavaScript and popular front-end frameworks.
-  - 🎓 &nbsp; Currently pursuing a Master's degree in Software Engineering at Soochow University.
-  - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Network traffic measurement.
-  - ✍️ &nbsp; Enjoys reading novels and writing essays in leisure time.
+  - 🤔 &nbsp; Learning Learn Artificial Intelligence Security, focusing on Backdoor attacks in deep learning.
+  - 🎓 &nbsp; Currently an undergraduate student at the National Cyber Security College of Wuhan University.
+  - 🌱 &nbsp; Studying in the NIS&P Lab(Thanks to the seniors and sisters who helped me in the Lab).
+  - ✍️ &nbsp; Enjoys playing basketball and playing the guitar in leisure time.
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
