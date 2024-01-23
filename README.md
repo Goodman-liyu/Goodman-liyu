@@ -2,7 +2,7 @@
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/pytorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/PyTorch-green?style=flat-square&logo=pytorch&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/C%23-yellow?style=flat-square&logo=csharp&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/Matlab-important?style=flat-square&logo=matrix&logoColor=white" style="display: inline-block;" />
   </div>
