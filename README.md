@@ -13,7 +13,7 @@
   - 🎓 &nbsp; Currently an undergraduate student at the National Cyber Security College of Wuhan University.
   - 🌱 &nbsp; Studying in the NIS&P Lab(Thanks to the seniors and sisters who helped me in the Lab).
   - ✍️ &nbsp; Enjoys playing basketball and playing the guitar in leisure time.
-
+  - 🔭 &nbsp; There are still many shortcomings. Continuing to learn.
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <div>
