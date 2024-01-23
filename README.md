@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm LiYu
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
-    <img src="https://komarev.com/ghpvc/?username=Decade-qiu" alt="1879" style="display: inline-block;">
   </div>
 </h1>
 
