@@ -35,9 +35,9 @@
         <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Goodman-liyu">
       </a>
     </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://goodman-liyu.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=Personal profile">
+       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://github.com/Goodman-liyu" target="_blank">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=profile&label=Goodman-liyu">
       </a>
     </p>
   </span>
