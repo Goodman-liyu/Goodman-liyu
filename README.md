@@ -37,7 +37,7 @@
     </p>
        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=profile&label=Goodman-liyu">
+        <img src="https://img.shields.io/badge/github-white?style=social&logo=profile&label=Profile">
       </a>
     </p>
   </span>
