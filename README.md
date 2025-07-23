@@ -24,23 +24,24 @@
       <img width="170" height="165" style="margin: auto 8px" align="right" src="https://github-profile-trophy.vercel.app/?username=Goodman-liyu&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&row=2&column=2" alt="https://raw.githubusercontent.com/Goodman-liyu/Goodman-liyu/master/Quicker_20231224_134552.png">
   </span>  
   
-  <span align="left">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=liyu1@pjlab.org.cn">
-      </a>
-    </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Goodman-liyu">
-      </a>
-    </p>
-       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/github-white?style=social&logo=profile&label=Profile">
-      </a>
-    </p>
-  </span>
+<span align="left">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="mailto:liyu1@pjlab.org.cn" target="_blank">
+      <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=liyu1@pjlab.org.cn">
+    </a>
+  </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://github.com/Goodman-liyu" target="_blank">
+      <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Goodman-liyu">
+    </a>
+  </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://goodman-liyu.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Personal-Blog-blue?style=social&logo=blogger">
+    </a>
+  </p>
+</span>
+
 </div>
 <!--
 <p> &nbsp;</p>
