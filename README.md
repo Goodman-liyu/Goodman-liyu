@@ -13,8 +13,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning Large Language Model Reasoning and Reinforcement Learning.
-- 🎓 &nbsp; Currently a first-year PhD student in joint program between USTC and PJLab.
-- 🌱 &nbsp; Working at OpenDataLab in Shanghai Artificial Intelligence Laboratory, mentored by Lijun Wu.
+- 🎓 &nbsp; Currently a first-year PhD student in joint program between USTC and [PJLab](https://www.shlab.org.cn).
+- 🌱 &nbsp; Working at [OpenDataLab](https://opendatalab.github.io) in PJlab, mentored by [Lijun Wu](https://apeterswu.github.io).
 - 🔭 &nbsp; There are still many shortcomings. Continuing to learn.
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
@@ -27,7 +27,7 @@
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Goodman-liyu" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=whu_yuli@whu.edu.cn">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=liyu1@pjlab.org.cn">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
@@ -37,7 +37,7 @@
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://goodman-liyu.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=📝  Personal profile">
+        <img src="https://img.shields.io/badge/Blog-blue?style=social&label=Personal profile">
       </a>
     </p>
   </span>
