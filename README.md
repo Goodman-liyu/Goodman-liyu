@@ -11,7 +11,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning Large Language Model Reasoning and Reinforcement Learning.
-- 🎓 &nbsp; Currently a first-year PhD student in joint program between USTC and [PJLab](https://www.shlab.org.cn).
+- 🎓 &nbsp; Currently a first-year PhD student in joint program between [USTC](https://en.ustc.edu.cn) and [PJLab](https://www.shlab.org.cn).
 - 🌱 &nbsp; Working at [OpenDataLab](https://opendatalab.github.io) in PJlab, mentored by [Lijun Wu](https://apeterswu.github.io).
 - 🔭 &nbsp; There are still many shortcomings. Continuing to learn.
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
