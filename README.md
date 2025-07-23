@@ -12,11 +12,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; Learning Learn Artificial Intelligence Security, focusing on Backdoor attacks in deep learning.
-  - 🎓 &nbsp; Currently an undergraduate student at the School of Cyber Science and Engineering-Whu.
-  - 🌱 &nbsp; Studying in the NIS&P Lab(Thanks to the seniors and sisters who helped me in the Lab).
-  - ✍️ &nbsp; Enjoys playing basketball and playing the guitar in leisure time.
-  - 🔭 &nbsp; There are still many shortcomings. Continuing to learn.
+- 🤔 &nbsp; Learning Large Language Model Reasoning and Reinforcement Learning.
+- 🎓 &nbsp; Currently a first-year PhD student in joint program between USTC and PJLab.
+- 🌱 &nbsp; Working at OpenDataLab in Shanghai Artificial Intelligence Laboratory, mentored by Lijun Wu.
+- 🔭 &nbsp; There are still many shortcomings. Continuing to learn.
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <div>
